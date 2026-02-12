@@ -1,5 +1,5 @@
 # 💫 Briefit 
-## : AI기반 객관적이고 신뢰성 있는 뉴스 큐레이션 서비스
+## : AI 기반의 객관적이고 신뢰성 있는 뉴스 큐레이션 서비스
 ### [👀 서비스 둘러보기](https://briefit-fe.vercel.app/today-news)
 <img width="15636" height="8796" alt="작품대표사진" src="https://github.com/user-attachments/assets/9ae928b2-5287-458b-ab2f-8cb1e7740ee0" />
 
